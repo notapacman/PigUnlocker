@@ -7,3 +7,6 @@ You can view the programs that are in autorun and delete them from it if necessa
 
 **Unlocking restrictions**
 Unlocking the basic restrictions that were registered in the registry (regedit).
+
+**Easy File Manager**
+if your explorer blocked by virus, it doesn't matter! use the built-in file manager))
