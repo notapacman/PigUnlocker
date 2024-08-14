@@ -18,5 +18,17 @@ namespace PigUnlocker
             autorun autorun = new autorun();
             autorun.Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FileManager manager = new FileManager();
+            manager.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            About about = new About();
+            about.Show();
+        }
     }
 }

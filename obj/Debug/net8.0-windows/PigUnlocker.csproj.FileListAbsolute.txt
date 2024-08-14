@@ -16,3 +16,6 @@ C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\obj\Debug\net8.0-windows\PigUnlo
 C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\obj\Debug\net8.0-windows\PigUnlocker.genruntimeconfig.cache
 C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\obj\Debug\net8.0-windows\ref\PigUnlocker.dll
 C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\obj\Debug\net8.0-windows\PigUnlocker.autorun.resources
+C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\obj\Debug\net8.0-windows\PigUnlocker.About.resources
+C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\obj\Debug\net8.0-windows\PigUnlocker.FileManager.resources
+C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\obj\Debug\net8.0-windows\PigUnlocker.Properties.Resources.resources

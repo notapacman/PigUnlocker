@@ -31,6 +31,8 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             label1 = new Label();
             groupBox1 = new GroupBox();
+            button4 = new Button();
+            button2 = new Button();
             button3 = new Button();
             button1 = new Button();
             statusStrip1 = new StatusStrip();
@@ -51,20 +53,46 @@
             // 
             // groupBox1
             // 
+            groupBox1.Controls.Add(button4);
+            groupBox1.Controls.Add(button2);
             groupBox1.Controls.Add(button3);
             groupBox1.Controls.Add(button1);
             groupBox1.Location = new Point(12, 63);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(448, 146);
+            groupBox1.Size = new Size(448, 167);
             groupBox1.TabIndex = 1;
             groupBox1.TabStop = false;
             groupBox1.Text = "Menu";
+            // 
+            // button4
+            // 
+            button4.FlatStyle = FlatStyle.System;
+            button4.Font = new Font("Segoe UI", 11F);
+            button4.Location = new Point(229, 98);
+            button4.Name = "button4";
+            button4.Size = new Size(213, 48);
+            button4.TabIndex = 4;
+            button4.Text = "About Program";
+            button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click;
+            // 
+            // button2
+            // 
+            button2.FlatStyle = FlatStyle.System;
+            button2.Font = new Font("Segoe UI", 11F);
+            button2.Location = new Point(10, 98);
+            button2.Name = "button2";
+            button2.Size = new Size(213, 48);
+            button2.TabIndex = 3;
+            button2.Text = "File Manager";
+            button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click;
             // 
             // button3
             // 
             button3.FlatStyle = FlatStyle.System;
             button3.Font = new Font("Segoe UI", 11F);
-            button3.Location = new Point(229, 55);
+            button3.Location = new Point(229, 33);
             button3.Name = "button3";
             button3.Size = new Size(213, 44);
             button3.TabIndex = 2;
@@ -76,9 +104,9 @@
             // 
             button1.FlatStyle = FlatStyle.System;
             button1.Font = new Font("Segoe UI", 11F);
-            button1.Location = new Point(6, 55);
+            button1.Location = new Point(10, 33);
             button1.Name = "button1";
-            button1.Size = new Size(213, 45);
+            button1.Size = new Size(213, 44);
             button1.TabIndex = 0;
             button1.Text = "Unlock restrictions";
             button1.UseVisualStyleBackColor = true;
@@ -96,8 +124,8 @@
             // toolStripStatusLabel1
             // 
             toolStripStatusLabel1.Name = "toolStripStatusLabel1";
-            toolStripStatusLabel1.Size = new Size(72, 17);
-            toolStripStatusLabel1.Text = "Version: 1.52";
+            toolStripStatusLabel1.Size = new Size(75, 17);
+            toolStripStatusLabel1.Text = "Version: 1.7.1";
             // 
             // Form1
             // 
@@ -125,5 +153,7 @@
         private Button button1;
         private StatusStrip statusStrip1;
         private ToolStripStatusLabel toolStripStatusLabel1;
+        private Button button4;
+        private Button button2;
     }
 }

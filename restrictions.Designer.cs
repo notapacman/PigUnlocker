@@ -177,8 +177,8 @@ namespace PigUnlocker
             // toolStripStatusLabel1
             // 
             toolStripStatusLabel1.Name = "toolStripStatusLabel1";
-            toolStripStatusLabel1.Size = new Size(72, 17);
-            toolStripStatusLabel1.Text = "Version: 1.52";
+            toolStripStatusLabel1.Size = new Size(75, 17);
+            toolStripStatusLabel1.Text = "Version: 1.7.1";
             // 
             // restrictions
             // 
