@@ -5,6 +5,8 @@ namespace PigUnlocker
         public Form1()
         {
             InitializeComponent();
+            this.MinimizeBox = false;
+            this.MaximizeBox = false;
         }
 
         private void button1_Click(object sender, EventArgs e)

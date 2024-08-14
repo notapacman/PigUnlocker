@@ -18,6 +18,8 @@ namespace PigUnlocker
         public restrictions()
         {
             InitializeComponent();
+            this.MinimizeBox = false;
+            this.MaximizeBox = false;
         }
         private void button1_Click(object sender, EventArgs e)
         {

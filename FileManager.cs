@@ -22,6 +22,8 @@ namespace PigUnlocker
             InitializeComponent();
             LoadDrives();
             InitializeListView();
+            this.MinimizeBox = false;
+            this.MaximizeBox = false;
         }
 
         private void InitializeListView()
