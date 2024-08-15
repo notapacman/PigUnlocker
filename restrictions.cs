@@ -189,7 +189,7 @@ namespace PigUnlocker
                         foreach (var restriction in restrictions)
                         {
                             var value = key.GetValue(restriction);
-                            if (value != null)
+                            if (value != null && value.Equals(1))
                             {
                                 // Добавляем элемент в ListView
                                 listView1.Items.Add(new ListViewItem(new[] { restriction, value.ToString(), $"{path}\\{restriction}" }));
