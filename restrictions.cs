@@ -189,10 +189,12 @@ namespace PigUnlocker
                         foreach (var restriction in restrictions)
                         {
                             var value = key.GetValue(restriction);
-                            if (value != null && value.Equals(1))
+                            if (value != null)
                             {
                                 // Добавляем элемент в ListView
                                 listView1.Items.Add(new ListViewItem(new[] { restriction, value.ToString(), $"{path}\\{restriction}" }));
+                                // The scan is complete, something has been found
+                                MessageBox.Show("The scan is completed, something has been found", "PigUnlocker", MessageBoxButtons.OK, MessageBoxIcon.Information);
                             }
                         }
                     }

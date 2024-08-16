@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "axIIMVs4F68=",
+  "dgSpecHash": "hEZEa0edo+0=",
   "success": true,
   "projectFilePath": "C:\\Users\\pig\\source\\rep\\PigUnlocker\\PigUnlocker\\PigUnlocker.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\pig\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\pig\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\pig\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512",
+    "C:\\Users\\pig\\.nuget\\packages\\system.serviceprocess.servicecontroller\\8.0.0\\system.serviceprocess.servicecontroller.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

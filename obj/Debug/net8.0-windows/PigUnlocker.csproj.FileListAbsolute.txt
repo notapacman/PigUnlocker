@@ -19,3 +19,10 @@ C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\obj\Debug\net8.0-windows\PigUnlo
 C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\obj\Debug\net8.0-windows\PigUnlocker.About.resources
 C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\obj\Debug\net8.0-windows\PigUnlocker.FileManager.resources
 C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\obj\Debug\net8.0-windows\PigUnlocker.Properties.Resources.resources
+C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\bin\Debug\net8.0-windows\System.Management.dll
+C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\obj\Debug\net8.0-windows\PigUnlocker.csproj.AssemblyReference.cache
+C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\obj\Debug\net8.0-windows\PigUnloc.4C8C7509.Up2Date
+C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\bin\Debug\net8.0-windows\System.ServiceProcess.ServiceController.dll
+C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.ServiceProcess.ServiceController.dll
+C:\Users\pig\source\rep\PigUnlocker\PigUnlocker\obj\Debug\net8.0-windows\PigUnlocker.Other.resources

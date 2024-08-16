@@ -26,6 +26,7 @@ namespace PigUnlocker
             FillListViewWithStartupItems();
             FillListViewWithStartupItems2();
             LoadRegistryValues();
+            MessageBox.Show("The search is completed", "PigUnlocker", MessageBoxButtons.OK, MessageBoxIcon.Information);
         }
 
         private void LoadRegistryValues()

@@ -32,5 +32,11 @@ namespace PigUnlocker
             About about = new About();
             about.Show();
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Other manager = new Other();
+            manager.Show();
+        }
     }
 }
