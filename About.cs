@@ -23,7 +23,7 @@ namespace PigUnlocker
         private void button1_Click(object sender, EventArgs e)
         {
             // Открываем браузер с указанным URL
-            Process.Start(new ProcessStartInfo("http://harampig.github.io/piggy") { UseShellExecute = true });
+            Process.Start(new ProcessStartInfo("http://harampig.github.io/pig") { UseShellExecute = true });
         }
     }
 }
